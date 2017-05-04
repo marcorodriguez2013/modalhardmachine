@@ -9,11 +9,9 @@ jQuery plugin for replacing img-tags with SVG content
 	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript">
 	```
 2. Incluir Plugins:
-	```html
+	```html/css
 	    	<link href="css/modal_hardmachine.min.css" rel="stylesheet"/>
-  	```
-    	```css
-      		<script src="js/modal_hardmachine.min.js" type="text/javascript">
+  	 	<script src="js/modal_hardmachine.min.js" type="text/javascript">
    	```
 3. Ejecutar Plugin:
 	```javascript
