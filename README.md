@@ -20,7 +20,8 @@ jQuery plugin for replacing img-tags with SVG content
 	or
    	```javascript
 		$("#element").hm_modal({
-    		//opciones});
+    		//opciones
+		});
 	```
 
 ## Autor
