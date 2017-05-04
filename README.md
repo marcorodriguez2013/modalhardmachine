@@ -7,7 +7,8 @@ jQuery plugin for replacing img-tags with SVG content
 1. Include jQuery:
 
 	```html
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript">
+
 	```
 
 2. Include plugin's code:
