@@ -2,9 +2,9 @@
 
 jQuery plugin for replacing img-tags with SVG content
 
-## Usage
+## Modo de Uso
 
-1. Include jQuery:
+1. Incluir jQuery:
 	```html
 	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript">
 	```
