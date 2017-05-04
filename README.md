@@ -15,11 +15,11 @@ jQuery plugin for replacing img-tags with SVG content
    	```
 3. Ejecutar Plugin:
 	```javascript
-		$("#element")..hm_modal();
+		$("#element").hm_modal();
 	```
 	or
    	```javascript
-		$("#element")..hm_modal({
+		$("#element").hm_modal({
     		//opciones});
 	```
 
