@@ -1,6 +1,5 @@
 # Modal HardMachine
 
-jQuery plugin for replacing img-tags with SVG content
 
 ## Modo de Uso
 
